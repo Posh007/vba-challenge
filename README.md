@@ -1,4 +1,4 @@
-# VBA Homework - The VBA of Wall Street
+## VBA Homework - The VBA of Wall Street
 
 VBA scripting is used to analyze real stock market data. 
 
@@ -24,7 +24,7 @@ VBA scripting is used to analyze real stock market data.
 
 * The solution is also able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume." 
 
-## Screenshots of Each Year's Uummary
+## Screenshots of Each Year's Summary
 
 ## 2014
 
