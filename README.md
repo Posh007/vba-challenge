@@ -8,7 +8,7 @@ VBA scripting is used to analyze real stock market data.
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Used to run scripts  and generate the final homework report. 
 
-## Procedure
+## Achieved Tasks
 
 * Created a script that loops through all the stocks for one year and output the following information.
 
@@ -24,16 +24,16 @@ VBA scripting is used to analyze real stock market data.
 
 * The solution is also able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume." 
 
-## Screenshots of each year's summary
+## Screenshots of Each Year's Uummary
 
-# 2014
+## 2014
 
 ![2014](Images/2014.png)
 
-# 2015
+## 2015
 
 ![2015](Images/2015.png)
 
-# 2016
+## 2016
 
 ![2016](Images/2016.png)
